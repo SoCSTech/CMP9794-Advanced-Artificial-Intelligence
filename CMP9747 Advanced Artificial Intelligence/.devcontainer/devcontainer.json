@@ -1,9 +1,9 @@
 {
-    "name": "MODULE",
+    //"name": "Advanced Artificial Intelligence",
     
-    "image": "ghcr.io/socstech/MODULE:latest",
+    "image": "ghcr.io/socstech/cmp9747:latest",
 
-    //"build": { "dockerfile": "Dockerfile" },
+    "build": { "dockerfile": "Dockerfile" },
 
     "customizations": {
         "vscode": {
