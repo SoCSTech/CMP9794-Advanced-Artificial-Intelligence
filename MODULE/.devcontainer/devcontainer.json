@@ -1,0 +1,23 @@
+{
+    "name": "MODULE",
+    
+    "image": "ghcr.io/socstech/MODULE:latest",
+
+    //"build": { "dockerfile": "Dockerfile" },
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "ms-toolsai.jupyter",
+                "ms-toolsai.vscode-jupyter-cell-tags",
+                "ms-toolsai.jupyter-renderers",
+                "ms-toolsai.vscode-jupyter-slideshow",
+                "ms-python.vscode-pylance",
+                "ms-python.python",
+                "ms-python.debugpy",
+                "ms-toolsai.jupyter-keymap"
+            ]
+        }
+    }
+}
