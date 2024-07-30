@@ -1,7 +1,7 @@
 {
     //"name": "Advanced Artificial Intelligence",
     
-    "image": "ghcr.io/socstech/cmp9747:latest",
+    "image": "ghcr.io/socstech/cmp9794:latest",
 
     "build": { "dockerfile": "Dockerfile" },
 
